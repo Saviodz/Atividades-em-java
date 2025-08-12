@@ -34,4 +34,4 @@ public class ativiadade14 {
 	}
 
 
-//Leia 4 números reais. Escreva o maior, o menor, quantos são positivos e quantos são negativos.
+//Leia 4 números reais. Escreva o maior, o menor, quantos são positivos e quantos são negativos;
