@@ -32,4 +32,6 @@ public class ativiadade14 {
 	        sc.close();
 	    }
 	}
+
+
 //Leia 4 números reais. Escreva o maior, o menor, quantos são positivos e quantos são negativos.
